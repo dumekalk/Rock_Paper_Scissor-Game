@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors Game with an Extra Dash of Excitement! 🎮
+#Rock, Paper, Scissors Game with an Extra Dash of Excitement! 🎮
 
 Dive into the timeless Rock, Paper, Scissors showdown, now with a thrilling twist! This Python console-based game delivers:
 
